@@ -38,6 +38,8 @@ Thumbs.db
 # Local credentials/docs
 AWS_CREDENTIALS.md
 .aws/
+setup-and-run.sh
+SETUP.md
 
 # Compiled classes
 *.class
